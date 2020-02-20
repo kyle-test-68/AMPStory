@@ -1,0 +1,24 @@
+{
+  "name": "AMPStory",
+  "version": "1.0.0",
+  "description": "This folder contains the files for the \"Create a visual AMP Story\" tutorial.",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-test-68/AMPStory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-test-68/AMPStory/issues"
+  },
+  "homepage": "https://github.com/kyle-test-68/AMPStory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
