@@ -6,3 +6,9 @@ console.log(`Yay! Workbox is loaded 🎉`);
 }else{
   console.log(`Sorry, Workbox is not loaded :(`);
 }
+
+workbox.precaching.precacheAndRoute([
+  "/index.html",
+  "https://kyle-test-68.github.io/AMPStory/pets-completed.html"
+
+  ]);
